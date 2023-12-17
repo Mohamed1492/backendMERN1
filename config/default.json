@@ -1,0 +1,4 @@
+{
+    "db":"mongodb+srv://sellamimed:med1234@cluster0.2dkodzr.mongodb.net/auth1?retryWrites=true&w=majority",
+    "secret":"sakar" 
+}
